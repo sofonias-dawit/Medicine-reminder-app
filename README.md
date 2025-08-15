@@ -29,13 +29,6 @@ A user-friendly and reliable Android application built in Java to help users man
     *   **`NotificationCompat`:** Builds a high-priority notification that acts as the vehicle for the full-screen intent.
     *   **`TextInputLayout` & `MaterialCardView`:** Modern Material Design components are used for a clean and professional UI.
 
-## 📸 Screenshots
-
-*(Optional but highly recommended: Add a few screenshots of your app here to showcase the UI. You can upload them to the GitHub repository and link them like this:)*
-
-`<img src="path/to/screenshot1.jpg" width="250">`
-`<img src="path/to/screenshot2.jpg" width="250">`
-
 ## ⚙️ How to Set Up and Run
 
 1.  Clone the repository: `git clone https://github.com/sofonias-dawit/MedicineReminder.git`
