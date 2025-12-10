@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#007BFF</color> <!-- A clear, professional blue -->
+    <color name="primary_dark">#0056b3</color> <!-- A darker shade for status bars -->
+    <color name="primary_light">#ADCFFF</color> <!-- A lighter accent shade -->
+    <color name="on_primary">#FFFFFF</color> <!-- Text/icons on primary color (white) -->
+
+    <!-- Accent Color -->
+    <color name="accent">#17A2B8</color>
+    <color name="on_accent">#FFFFFF</color>
+
+    <!-- Light Theme Surface & Background Colors -->
+    <color name="background_light">#F8F9FA</color> <!-- A very light grey for the background -->
+    <color name="surface_light">#FFFFFF</color> <!-- White for cards, dialogs, etc. -->
+    <color name="text_primary_light">#212529</color> <!-- A soft black for text -->
+    <color name="text_secondary_light">#6C757D</color> <!-- Grey for secondary text -->
+
+    <!-- Dark Theme Surface & Background Colors -->
+    <color name="background_dark">#121212</color> <!-- Standard dark background -->
+    <color name="surface_dark">#1E1E1E</color> <!-- A slightly lighter dark for surfaces -->
+    <color name="text_primary_dark">#E8EAED</color> <!-- An off-white for primary text -->
+    <color name="text_secondary_dark">#9AA0A6</color> <!-- A light grey for secondary text -->
+
+    <!-- Standard Colors (useful to have) -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

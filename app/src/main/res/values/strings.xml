@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Medicine Reminder</string>
+    <string-array name="frequency_options">
+        <item>Once a day</item>
+        <item>Twice a day</item>
+        <item>Thrice a day</item>
+        <item>Every 6 hours</item>
+        <item>Every 8 hours</item>
+        <item>Every 12 hours</item>
+    </string-array>
+</resources>
